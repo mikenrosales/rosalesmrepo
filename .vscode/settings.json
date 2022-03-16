@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/c835ae0a-2ef3-4e94-8109-a56a844b6f2b/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/mrosales-my-first-azure-deployed-app",
+    "appService.deploySubpath": "."
+}
